@@ -21,3 +21,6 @@
 # tools
 * [Codepen](https://codepen.io/)
 * [Gyazo - screen capturing](gyazo.com)
+
+# Misc
+* [beets - MP3 tagging utility](https://beets.readthedocs.io/en/v1.4.7/dev/index.html)
