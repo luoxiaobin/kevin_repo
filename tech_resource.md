@@ -17,10 +17,21 @@
 * Markdown language
 * Python Fabric - for automation
 
-
 # tools
 * [Codepen](https://codepen.io/)
 * [Gyazo - screen capturing](gyazo.com)
 
+# Coding Project
+* [Build an API with Django REST Framework](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
+* [How to GraophQL](https://www.howtographql.com/)
+    * [How to GraphQL - Github](https://github.com/howtographql/howtographql)
+
 # Misc
 * [beets - MP3 tagging utility](https://beets.readthedocs.io/en/v1.4.7/dev/index.html)
+* [free code camp - learning coding for free!](https://www.freecodecamp.org/)
+* [Learning GraphQL - Github](https://github.com/MoonHighway/learning-graphql)
+* [Full Speed Python - Github](https://github.com/joaoventura/full-speed-python)
+* [Roadmap to Web developer - Github](https://github.com/kamranahmedse/developer-roadmap)
+* [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io/)
+* [A-to-Z Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
