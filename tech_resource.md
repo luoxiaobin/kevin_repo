@@ -17,7 +17,7 @@
 * Markdown language
 * Python Fabric - for automation
 
-# tools
+# toolsja
 * [Codepen](https://codepen.io/)
 * [Gyazo - screen capturing](gyazo.com)
 
@@ -31,6 +31,7 @@
 * [free code camp - learning coding for free!](https://www.freecodecamp.org/)
 * [Learning GraphQL - Github](https://github.com/MoonHighway/learning-graphql)
 * [Full Speed Python - Github](https://github.com/joaoventura/full-speed-python)
+* [Learn Spark using Python - Apache Spark with Python course](https://github.com/awantik/pyspark-tutorial)
 * [Roadmap to Web developer - Github](https://github.com/kamranahmedse/developer-roadmap)
 * [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io/)
 * [A-to-Z Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
