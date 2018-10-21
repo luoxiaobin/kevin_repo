@@ -24,7 +24,7 @@
 # Coding Project
 * [Build an API with Django REST Framework](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
 * [How to GraophQL](https://www.howtographql.com/)
-    * [How to GraphQL - Github](https://github.com/howtographql/howtographql)
+* [Drawing tool - draw.io](https://draw.io)
 
 # Misc
 * [beets - MP3 tagging utility](https://beets.readthedocs.io/en/v1.4.7/dev/index.html)
