@@ -17,9 +17,10 @@
 * Markdown language
 * Python Fabric - for automation
 
-# toolsja
+# tools
 * [Codepen](https://codepen.io/)
 * [Gyazo - screen capturing](gyazo.com)
+* [Lorem Ipsum - generate randon text] (https://loremipsum.io/)
 
 # Coding Project
 * [Build an API with Django REST Framework](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
