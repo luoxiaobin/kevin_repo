@@ -1,5 +1,4 @@
-
-# tech resource
+## tech resource
 * [apigee.com](apigee.com)
     * _this has many avaialble API (e.g. Flickr...) and can easliy check things_
 * [json parser](http://json.parser.online.fr)
@@ -9,25 +8,25 @@
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
     * _short videos very clear_
 
-# General SDLC tutorials
+## General SDLC tutorials
 * [FreeCodeCamp.org in YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-# Additional tech stuff
+## Additional tech stuff
 * YAML - YAML Ain't Markup Language (Yet Another Markup Language)
 * Markdown language
 * Python Fabric - for automation
 
-# tools
+## Tools
 * [Codepen](https://codepen.io/)
 * [Gyazo - screen capturing](gyazo.com)
 * [Lorem Ipsum - generate randon text] (https://loremipsum.io/)
 
-# Coding Project
+## Coding Project
 * [Build an API with Django REST Framework](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
 * [How to GraophQL](https://www.howtographql.com/)
 * [Drawing tool - draw.io](https://draw.io)
 
-# Misc
+## Misc
 * [beets - MP3 tagging utility](https://beets.readthedocs.io/en/v1.4.7/dev/index.html)
 * [free code camp - learning coding for free!](https://www.freecodecamp.org/)
 * [Learning GraphQL - Github](https://github.com/MoonHighway/learning-graphql)
