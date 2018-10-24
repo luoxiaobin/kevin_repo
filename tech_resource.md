@@ -22,7 +22,7 @@
 
 * [Codepen](https://codepen.io/)
 * [Gyazo - screen capturing](gyazo.com)
-* [Lorem Ipsum - generate randon text](https://loremipsum.io/)
+* [Lorem Ipsum - generate random text](https://loremipsum.io/)
 
 ## Coding Project
 
