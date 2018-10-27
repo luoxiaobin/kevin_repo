@@ -43,3 +43,4 @@
 * [Roadmap to Web developer - Github](https://github.com/kamranahmedse/developer-roadmap)
 * [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io/)
 * [A-to-Z Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+* [PySpark Tutorial](https://github.com/mahmoudparsian/pyspark-tutorial)
