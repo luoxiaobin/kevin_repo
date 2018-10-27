@@ -1,13 +1,20 @@
 
 # PySpark learning note
 
-1. Follow the below link to install
+1. Follow the below link to install PySpark and Hadoop
     - [Quick Guide installing Apache Spark (PySpark)](https://medium.com/@loldja/installing-apache-spark-pyspark-the-missing-quick-start-guide-for-windows-ad81702ba62d)
+
+1. You should have the following directories:
+    ```
+    c:\spark
+    c:\hadoop 
+    
 1. Use Anaconda to run pySpark
 
     ```bash
     cd /c/Users/kevin/Anaconda3
     source ./Scripts/activate base
+    set PYTHONPATH=C:\Users\kevin\Anaconda3
     cd /d/spark
     ./bin/pyspark.cmd
     ```
