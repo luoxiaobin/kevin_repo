@@ -5,7 +5,6 @@
 * [json parser](http://json.parser.online.fr)
 * [Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=TILIcrrVABg)
     * _from europyth July 2018_
-
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
     * _short videos very clear_
 
@@ -34,4 +33,4 @@
 * [Roadmap to Web developer - Github](https://github.com/kamranahmedse/developer-roadmap)
 * [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io/)
 * [A-to-Z Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-
+* [PySpark Tutorial](https://github.com/mahmoudparsian/pyspark-tutorial)
