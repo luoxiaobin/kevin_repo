@@ -4,11 +4,7 @@
   * _this has many avaialble API (e.g. Flickr...) and can easliy check things_
 * [json parser](http://json.parser.online.fr)
 * [Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=TILIcrrVABg)
-<<<<<<< HEAD
-    * _from europyth July 2018_
-=======
   * _from europyth July 2018_
->>>>>>> 44f819ecbb7c18bf4d7390658598030a0e3ebd53
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
   * _short videos very clear_
 
@@ -44,7 +40,4 @@
 * [Roadmap to Web developer - Github](https://github.com/kamranahmedse/developer-roadmap)
 * [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io/)
 * [A-to-Z Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-<<<<<<< HEAD
 * [PySpark Tutorial](https://github.com/mahmoudparsian/pyspark-tutorial)
-=======
->>>>>>> 44f819ecbb7c18bf4d7390658598030a0e3ebd53
