@@ -8,6 +8,8 @@
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
   * _short videos very clear_
 
+* [MERN Stack](http://mern.io/)
+
 ## General SDLC tutorials
 
 * [FreeCodeCamp.org in YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
@@ -29,6 +31,7 @@
 * [Build an API with Django REST Framework](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
 * [How to GraophQL](https://www.howtographql.com/)
 * [Drawing tool - draw.io](https://draw.io)
+* [PassWeb - NodeJS](https://github.com/DavidAnson/PassWeb)
 
 ## Misc
 
