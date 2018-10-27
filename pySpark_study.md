@@ -1,5 +1,5 @@
 
-# PySpark learning node
+# PySpark learning note
 
 1. Follow the below link to install
     - [Quick Guide installing Apache Spark (PySpark)](https://medium.com/@loldja/installing-apache-spark-pyspark-the-missing-quick-start-guide-for-windows-ad81702ba62d)
