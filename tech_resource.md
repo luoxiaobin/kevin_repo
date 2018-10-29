@@ -18,6 +18,7 @@
 
 * YAML - YAML Ain't Markup Language (Yet Another Markup Language)
 * Markdown language
+    * [Introduction to Markdown using VS Code - YouTube](https://www.youtube.com/watch?v=pTCROLZLhDM)
 * Python Fabric - for automation
 
 ## Tools
@@ -45,4 +46,6 @@
 * [Learn Spark using Python - Apache Spark with Python course](https://github.com/awantik/pyspark-tutorial)
 * [PySpark Tutorial](https://github.com/mahmoudparsian/pyspark-tutorial)
 * [PySpark installation Quick Guide for Windows](https://medium.com/@loldja/installing-apache-spark-pyspark-the-missing-quick-start-guide-for-windows-ad81702ba62d)
-* [Tips and tricks for using VS Code for Python Programming](https://www.youtube.com/watch?v=TILIcrrVABg)
+* [Get Productive with Python and Visual Studio Code - YouTube](https://www.youtube.com/watch?v=TILIcrrVABg)
+* [Code and Links for "Get Productive with Python and Visual Studio Code" talk](https://github.com/qubitron/pydemo)
+* [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9)
