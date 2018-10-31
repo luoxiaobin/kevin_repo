@@ -50,3 +50,4 @@
 * [Code and Links for "Get Productive with Python and Visual Studio Code" talk](https://github.com/qubitron/pydemo)
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9)
 * [Adding a new line - just testing](http://google.com)
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
