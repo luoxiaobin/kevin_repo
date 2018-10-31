@@ -51,3 +51,7 @@
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/0x4D31/f0b633548d8e0cfb66ee3bea6a0deff9)
 * [Adding a new line - just testing](http://google.com)
 * [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+* [Node.js base app - standard beginnings of Node.js web app](https://github.com/stevekane/baseapp)
+* [Python script to suspend VirtualBox automatically upon host shutdown](https://superuser.com/questions/959567/virtualbox-windows-graceful-shutdown-of-guests-on-host-shutdown)
+* [Python script to wake up/shutdown ESXi server](https://serverfault.com/questions/343778/automatically-shutting-down-an-esxi-host-nightly)
+* [Course on Big Data - 2016](http://semantica.cs.lth.se/pyspark/#/pyspark-vm)
