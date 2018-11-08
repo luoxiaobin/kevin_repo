@@ -42,7 +42,6 @@
 * [Full Speed Python - Github](https://github.com/joaoventura/full-speed-python)
 * [Roadmap to Web developer - Github](https://github.com/kamranahmedse/developer-roadmap)
 * [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io/)
-* [A-to-Z Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 * [Learn Spark using Python - Apache Spark with Python course](https://github.com/awantik/pyspark-tutorial)
 * [PySpark Tutorial](https://github.com/mahmoudparsian/pyspark-tutorial)
 * [PySpark installation Quick Guide for Windows](https://medium.com/@loldja/installing-apache-spark-pyspark-the-missing-quick-start-guide-for-windows-ad81702ba62d)
