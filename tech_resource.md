@@ -53,4 +53,5 @@
 * [Node.js base app - standard beginnings of Node.js web app](https://github.com/stevekane/baseapp)
 * [Python script to suspend VirtualBox automatically upon host shutdown](https://superuser.com/questions/959567/virtualbox-windows-graceful-shutdown-of-guests-on-host-shutdown)
 * [Python script to wake up/shutdown ESXi server](https://serverfault.com/questions/343778/automatically-shutting-down-an-esxi-host-nightly)
+* [PyBay 2017 Keynote - Raymond Hettinger](https://pybay.com/site_media/slides/raymond2017-keynote/index.html)
 * [Course on Big Data - 2016](http://semantica.cs.lth.se/pyspark/#/pyspark-vm)
