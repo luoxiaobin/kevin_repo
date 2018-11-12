@@ -55,3 +55,7 @@
 * [Python script to wake up/shutdown ESXi server](https://serverfault.com/questions/343778/automatically-shutting-down-an-esxi-host-nightly)
 * [PyBay 2017 Keynote - Raymond Hettinger](https://pybay.com/site_media/slides/raymond2017-keynote/index.html)
 * [Course on Big Data - 2016](http://semantica.cs.lth.se/pyspark/#/pyspark-vm)
+* [DRF - Drango REST Framework](https://www.django-rest-framework.org/)
+* [OAuth2 Introduction](https://github.com/networknt/light-oauth2/wiki/OAuth2-Introduction)
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Kong - Next-Generation API Platform for Modern Architectures](https://konghq.com/)
