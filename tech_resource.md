@@ -18,7 +18,7 @@
 
 * YAML - YAML Ain't Markup Language (Yet Another Markup Language)
 * Markdown language
-    * [Introduction to Markdown using VS Code - YouTube](https://www.youtube.com/watch?v=pTCROLZLhDM)
+* [Introduction to Markdown using VS Code - YouTube](https://www.youtube.com/watch?v=pTCROLZLhDM)
 * [Python Fabric - for automation](http://www.fabfile.org/)
 
 ## Tools
