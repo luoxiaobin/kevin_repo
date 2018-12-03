@@ -63,3 +63,5 @@
 ## Programming Theory
 * [SOLID OO Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
 * [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+* [Oops! OOP Is Not What I Thought - Anjana Vakil from oredev.org](https://www.youtube.com/watch?v=91gxLyc9nXU&feature=push-fr&attr_tag=nmIlsPbSuxQkMY9k%3A6)
+  
