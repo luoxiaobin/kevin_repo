@@ -64,4 +64,10 @@
 * [SOLID OO Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
 * [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 * [Oops! OOP Is Not What I Thought - Anjana Vakil from oredev.org](https://www.youtube.com/watch?v=91gxLyc9nXU&feature=push-fr&attr_tag=nmIlsPbSuxQkMY9k%3A6)
-  
+* [Design Patterns (GoF)](https://github.com/CyC2018/Design-Patterns)
+* [Computer Science Note](https://github.com/CyC2018/CS-Notes)
+* [Algorithm - Java](https://github.com/CyC2018/Algorithm)
+* [Algorithm - Python](https://github.com/TheAlgorithms/Python)
+* [Architecture - Awesome](https://github.com/xingshaocheng/architect-awesome)
+* [Public API](https://github.com/toddmotto/public-apis)
+* [Python - Awesome](https://github.com/vinta/awesome-python)    
