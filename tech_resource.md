@@ -59,6 +59,8 @@
 * [OAuth2 Introduction](https://github.com/networknt/light-oauth2/wiki/OAuth2-Introduction)
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Kong - Next-Generation API Platform for Modern Architectures](https://konghq.com/)
+* [Good GitHub repo - Python, NodeJS and ML ...](https://github.com/trekhleb)
+ 
 
 ## Programming Theory
 * [SOLID OO Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
