@@ -60,6 +60,8 @@
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Kong - Next-Generation API Platform for Modern Architectures](https://konghq.com/)
 * [Good GitHub repo - Python, NodeJS and ML ...](https://github.com/trekhleb)
+* [Good GitHub repo - books, learning notes etc.](https://github.com/aisuhua)
+* [7 days learning NodeJS](http://nqdeng.github.io/7-days-nodejs/)
  
 
 ## Programming Theory
