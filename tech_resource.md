@@ -62,7 +62,8 @@
 * [Good GitHub repo - Python, NodeJS and ML ...](https://github.com/trekhleb)
 * [Good GitHub repo - books, learning notes etc.](https://github.com/aisuhua)
 * [7 days learning NodeJS](http://nqdeng.github.io/7-days-nodejs/)
- 
+* [You Don't Need That: Design Patterns and Python](https://www.youtube.com/watch?v=rAZBK7jE7b8&feature=push-fr&attr_tag=SzM1FvoFO7gdkbhO%3A6)
+* [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
 
 ## Programming Theory
 * [SOLID OO Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
