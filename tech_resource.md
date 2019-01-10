@@ -65,6 +65,7 @@
 * [You Don't Need That: Design Patterns and Python](https://www.youtube.com/watch?v=rAZBK7jE7b8&feature=push-fr&attr_tag=SzM1FvoFO7gdkbhO%3A6)
 * [An introduction to Sphinx and Read the Docs for Technical Writers](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
 * [NiPyApi: A Python Client SDK for Apache NiFi](https://nipyapi.readthedocs.io/en/latest/index.html)
+* [The Modern Javascript Tutorial - website](https://javascript.info/)
 
 ## Programming Theory
 * [SOLID OO Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
